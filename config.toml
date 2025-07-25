@@ -1,0 +1,8 @@
+
+[blockchain]
+name = "MillCion"
+symbol = "MCN"
+total_supply = 21000000
+decimals = 8
+consensus = "ProofOfWork"
+genesis_timestamp = 1724457600  # Example UNIX timestamp

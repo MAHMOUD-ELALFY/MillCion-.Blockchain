@@ -1,0 +1,10 @@
+
+{
+  "chain_id": "millcion-001",
+  "genesis_time": "2025-08-01T00:00:00Z",
+  "initial_supply": 21000000,
+  "allocations": {
+    "wallet1": 10000000,
+    "wallet2": 11000000
+  }
+}

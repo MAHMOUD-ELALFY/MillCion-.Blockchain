@@ -1,0 +1,21 @@
+{
+  "name": "MillCion Network",
+  "id": "millcion",
+  "chainType": "Local",
+  "bootNodes": [],
+  "telemetryEndpoints": null,
+  "protocolId": null,
+  "properties": {
+    "tokenSymbol": "MCN",
+    "tokenDecimals": 12
+  },
+  "genesis": {
+    "runtime": {
+      "balances": {
+        "balances": [
+          ["0x0000000000000000000000000000000000000000", 21000000000000000000]
+        ]
+      }
+    }
+  }
+}
